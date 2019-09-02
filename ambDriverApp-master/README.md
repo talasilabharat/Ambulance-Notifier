@@ -1,11 +1,9 @@
-# [Ambulance Driver App -"Uber for ambulance"](http://www.technolabs.in/showcase/ambulanceapp)
+# [Ambulance Notifier -"Uber for ambulance"]
 
-![Ambulance App](/docs/aa0011.jpg "Ambulance App")
 
-Ambulance driver app is "Uber for ambulance" app which helps drivers with own app for managing bookings, rescheduling reporting and sharing GPS tracking status.
 
-## Disclaimer
-Please note that shared code is only for portfolio demonstration and learning purposes only. By no means, its final working version of system. We have shared Alpha version(code) of system after approval from our client.
+Ambulance Notifier is "Uber for ambulance" app which helps drivers with own app for managing bookings, rescheduling reporting and sharing GPS tracking status.
+
 
 ## User App Features
 + User registration and profile creation
